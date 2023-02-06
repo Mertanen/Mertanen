@@ -1,6 +1,5 @@
-I'm @Mertanen. Currently I learning Python and PHP.
-I interested in Web-development. I want to learn more 
-about popular technologies and framworks.
+I'm @Mertanen.
+I interested in Web-development.
 
 <!---
 Mertanen/Mertanen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
